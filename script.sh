@@ -73,5 +73,6 @@ grep 'cpu MHz' /proc/cpuinfo
 echo "****************************************************************************"
 echo""
 echo "15) USUARIOS CONECTADOS"
-who
+users
+w
 echo ""
